@@ -1,0 +1,7 @@
+
+null
+cycle: 1.0; biomasse_totale: 0.0
+cycle: 2.0; biomasse_totale: 2.7604003144088E7
+cycle: 3.0; biomasse_totale: 7.423915078860514E7
+cycle: 4.0; biomasse_totale: 7.573882091787133E7
+cycle: 5.0; biomasse_totale: 7.915029443617265E7

@@ -1,0 +1,20 @@
+
+null
+cycle: 1.0; biomasse_totale: 0.0
+cycle: 2.0; biomasse_totale: 0.0
+cycle: 3.0; biomasse_totale: 4.0039368060825996E7
+cycle: 4.0; biomasse_totale: 4.0039368060825996E7
+cycle: 5.0; biomasse_totale: 1.21326045789914E8
+cycle: 6.0; biomasse_totale: 1.2298577550626321E8
+cycle: 7.0; biomasse_totale: 1.2674480688166258E8
+cycle: 8.0; biomasse_totale: 1.3917154367726263E8
+cycle: 9.0; biomasse_totale: 1.5363384478019094E8
+cycle: 10.0; biomasse_totale: 1.575297767093241E8
+cycle: 11.0; biomasse_totale: 1.575297767093241E8
+cycle: 12.0; biomasse_totale: 1.575297767093241E8
+cycle: 13.0; biomasse_totale: 4.574585938814168E7
+cycle: 14.0; biomasse_totale: 4.574585938814168E7
+cycle: 15.0; biomasse_totale: 4.574585938814168E7
+cycle: 16.0; biomasse_totale: 4.574585938814168E7
+cycle: 17.0; biomasse_totale: 4.574585938814168E7
+cycle: 18.0; biomasse_totale: 4.574585938814168E7
