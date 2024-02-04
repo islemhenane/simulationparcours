@@ -1,2 +1,0 @@
-
-cycle: 1.0; biomasse_totale: 0.0
